@@ -61,15 +61,21 @@ endmodule
 ## Output:
 ## RTL
 FOR NAND
+
 ![image](https://user-images.githubusercontent.com/123469171/214349083-bd25d204-a21f-4a53-8c1a-37ba7aa27de8.png)
+
 FOR NOR
+
 ![image](https://user-images.githubusercontent.com/123469171/214349243-7f9b2176-be27-4f1a-b4bd-4254352103c4.png)
 
 
 ## Timing Diagram
 FOR NAND
+
 ![image](https://user-images.githubusercontent.com/123469171/214349322-498073ca-4555-4e92-baed-17aec164ed13.png)
+
 FOR NOR
+
 ![image](https://user-images.githubusercontent.com/123469171/214349444-0cc48ec5-8256-4565-b559-9d8ef2ab135f.png)
 
 TRUTH TABLE
